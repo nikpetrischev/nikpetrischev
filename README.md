@@ -1,5 +1,5 @@
 ## Bio
-
+Hi! I'm Nikolai, backend engineer specialized in Python. 
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
