@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nikpetrischev/nikpetrischev/blob/main/README.en-us.md)
+
 ## О себе
 Добрый день! Меня зовут Николай. Я бэкенд разработчик на Python.
 
