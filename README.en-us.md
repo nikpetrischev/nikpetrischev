@@ -1,3 +1,5 @@
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/nikpetrischev/nikpetrischev/blob/main/README.md)
+
 ## Bio
 Hi! I'm Nikolai, backend engineer specialized in Python. 
 
