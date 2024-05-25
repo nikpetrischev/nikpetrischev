@@ -1,7 +1,11 @@
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/nikpetrischev/nikpetrischev/blob/main/README.md)
 
 ## Bio
-Hi! I'm Nikolai, backend engineer specialized in Python. 
+Greetings! I am Nikolay, a Python backend programmer specializing in Django and Django Rest Framework.
+
+I am motivated by a passion for innovation, constantly striving to improve my ability to produce dependable, high-quality, and well-documented code.
+
+I am enthusiastic about taking on new challenges and actively seeking job opportunities.
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
