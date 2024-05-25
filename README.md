@@ -1,7 +1,11 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nikpetrischev/nikpetrischev/blob/main/README.en-us.md)
 
 ## О себе
-Добрый день! Меня зовут Николай. Я бэкенд разработчик на Python.
+Привет, я Николай — бэкенд-разработчик на Python с упором на Django и Django Rest Framework.
+
+Люблю новые технологии, стремлюсь к тому, чтобы писать надёжный, качественный, хорошо задокументированный код.
+
+Готов к новым вызовам и открыт для предложений о сотрудничестве.
 
 ## Технологический стек
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
